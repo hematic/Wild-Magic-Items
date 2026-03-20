@@ -1,0 +1,13 @@
+# Foundry LevelDB lock files
+packs/*/LOCK
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor folders
+.vscode/
+.idea/
+
+# Node (if you ever add build tooling)
+node_modules/

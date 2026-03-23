@@ -2,7 +2,7 @@
   "id": "wild-magic-items",
   "title": "Wild Magic Items",
   "description": "A collection of wild magic items for D&D 5e. Many featuring unique roll tables that bring unpredictable and exciting effects to your game. Others that grow with your player's following the Vestige's model from Exandria.",
-  "version": "1.1.5",
+  "version": "1.1.6",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -21,11 +21,11 @@
   "packs": [
     {
       "name": "items",
-      "label": "Wild Magic Items",
+      "label": "Hematic's Magic Modules",
       "path": "packs/items",
       "type": "Item",
       "system": "dnd5e",
-      "folder": "Wild Magic Items"
+      "folder": "Hematic's Magic Modules"
     },
     {
       "name": "tables",
@@ -33,7 +33,7 @@
       "path": "packs/tables",
       "type": "RollTable",
       "system": "dnd5e",
-      "folder": "Wild Magic Items"
+      "folder": "Hematic's Magic Modules"
     },
     {
       "name": "actors",
@@ -41,12 +41,12 @@
       "path": "packs/actors",
       "type": "Actor",
       "system": "dnd5e",
-      "folder": "Wild Magic Items"
+      "folder": "Hematic's Magic Modules"
     }
   ],
   "packFolders": [
     {
-      "name": "Hematic Magic Modules",
+      "name": "Hematic's Magic Modules",
       "sorting": "a",
       "packs": [
         "items",
@@ -58,7 +58,7 @@
   ],
   "url": "https://github.com/hematic/wild-magic-items",
   "manifest": "https://raw.githubusercontent.com/hematic/wild-magic-items/main/module.json",
-  "download": "https://github.com/hematic/wild-magic-items/archive/refs/tags/v1.1.5.zip",
+  "download": "https://github.com/hematic/wild-magic-items/archive/refs/tags/v1.1.6.zip",
   "readme": "https://github.com/hematic/wild-magic-items/blob/main/README.md",
   "changelog": "https://github.com/hematic/wild-magic-items/blob/main/CHANGELOG.md",
   "bugs": "https://github.com/hematic/wild-magic-items/issues",

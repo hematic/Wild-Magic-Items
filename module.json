@@ -62,7 +62,7 @@
           "name": "Tables",
           "sorting": "a",
           "packs": ["tables"]
-        },
+        }
       ]
     }
   ],

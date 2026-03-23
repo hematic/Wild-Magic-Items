@@ -2,7 +2,7 @@
   "id": "wild-magic-items",
   "title": "Wild Magic Items",
   "description": "A brief description of what this module contains.",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "compatibility": {
     "minimum": "13",
     "verified": "13"
@@ -16,21 +16,21 @@
   "packs": [
     {
       "name": "items",
-      "label": "Wild Magic Items",
+      "label": "Item Pack 1",
       "path": "packs/items",
       "type": "Item",
       "system": "dnd5e"
     },
     {
       "name": "tables",
-      "label": "Wild Magic Tables",
+      "label": "Table Pack 1",
       "path": "packs/tables",
       "type": "RollTable",
       "system": "dnd5e"
     },
     {
       "name": "actors",
-      "label": "Wild Magic Actors",
+      "label": "Actor Pack 1",
       "path": "packs/actors",
       "type": "Actor",
       "system": "dnd5e"
@@ -66,6 +66,6 @@
   ],
   "url": "https://github.com/hematic/wild-magic-items",
   "manifest": "https://raw.githubusercontent.com/hematic/wild-magic-items/main/module.json",
-  "download": "https://github.com/hematic/wild-magic-items/archive/refs/tags/v1.1.3.zip",
+  "download": "https://github.com/hematic/wild-magic-items/archive/refs/tags/v1.1.4.zip",
   "license": "MIT"
 }
